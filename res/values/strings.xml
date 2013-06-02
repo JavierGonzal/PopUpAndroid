@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">PopUpAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_the_developer_world_is_yours">TheDeveloperWorldIsYours</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="colorPopUp">#BB000000</color>
+    <color name="colorPopUpWindow">#FDB400</color>
+    
+</resources>
